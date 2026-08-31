@@ -1,0 +1,14 @@
+{
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": "constant.character.interpolation.lit",
+                "settings": { "foreground": "#fff" }
+            },
+            {
+                "scope": "comment.expected.lit",
+                "settings": { "foreground": "#1e6f50" }
+            }
+        ]
+    },
+}
